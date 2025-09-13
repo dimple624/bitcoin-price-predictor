@@ -3,12 +3,14 @@ Bitcoin Price Predictor
 This project predicts the future price of Bitcoin using an LSTM (Long Short-Term Memory) neural network.
 It has a backend built with Python and a frontend built with HTML, CSS, and JavaScript.
 
+
 Features
 
 Train an LSTM model on historical Bitcoin price data
 Save the trained model as .h5 file
 Predict future prices from recent data
 Display predictions on a simple web interface
+
 
 Installation
 
@@ -40,6 +42,7 @@ python app.py
 Frontend
 
 Open frontend/index.html in your browser to view the prediction interface.
+
 
 Requirements
 

@@ -29,10 +29,10 @@ Install dependencies:
 pip install -r requirements.txt
 
 Training the Model
-python train_model.py
+python train_lstm_model.py
 
 
-This will generate a model.h5 file inside the backend folder.
+This will generate a bitcoin_lstm_model.h5 file inside the backend folder.
 
 Running Predictions
 python app.py

@@ -14,7 +14,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/bitcoin-price-predictor.git
+git clone https://github.com/dimple624/bitcoin-price-predictor.git
 cd bitcoin-price-predictor/backend
 
 
